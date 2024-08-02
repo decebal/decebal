@@ -38,5 +38,4 @@ Areas of expertise:
 Quick Trivia:
 I have a unique talent for simplifying complex subjects using football metaphors, making intricate ideas more accessible and engaging.
 
-
-[![decebal's GitHub | Languages Over Time](https://stats.quine.sh/decebal/languages-over-time?theme=light)](https://quine.sh)
+[![Codewars Badge](https://www.codewars.com/users/decebal2dac/badges/large)](https://www.codewars.com/users/decebal2dac)
