@@ -1,41 +1,103 @@
-👋 Hi, 
+# Hi there, I'm Decebal Dobrica 👋
 
-I'm Dez, a freelance B2B engineering manager helping founders, freelancers and companies to grow.
+**Fractional CTO** specializing in **AI Engineering** and **Digital Transformation** for VC-backed startups.
 
-Leading the charge at Breakout Clips, my role as Technical Lead focused on shaping tech leadership practices and enhancing team efficiency. The organization has witnessed a 300% boost in developer productivity under my direction, a testament to my commitment to optimizing our tech stack and simplifying processes.
+🌐 **[decebaldobrica.com](https://decebaldobrica.com)** - Visit my website to learn more about my work and services.
 
-Previously, as a Software Architect at Tellimer, I was instrumental in driving a 75% reduction in AWS costs, demonstrating my expertise in cloud architecture and IaC. My hands-on approach and dedication to fostering collaboration have been pivotal in delivering projects that resonate with our company culture and operational excellence.
+---
 
-Feel free to reach me here: https://calendly.com/decebal-dobrica/discovery-call
+## 🚀 What I Do
 
-What people say about me:
+I help VC-backed startups overcome their toughest challenge: **portfolio velocity**. With over 15 years of experience, I've:
 
-“As a manager, Decebal is dedicated to fostering a positive and collaborative work environment. He is proactive in identifying areas for improvement and implementing mechanisms to help the team succeed.” **Selçuk**
+- **Increased developer productivity by 300%** through trunk development and monorepo strategies
+- **Reduced infrastructure costs by 75%** through smart cloud architecture and serverless solutions
+- **Led teams of 25+ engineers** at Tellimer, Breakout Clips, and multiple startups
 
-“Dez excels at mapping out a birds-eye view of a technical solution and then working with individual team members to flesh out that solution. With his simultaneous interests in best practices and cutting-edge technology, Dez always encouraged us to look for the best tool for each job” **Ian**
+### Current Focus
+🏢 **Senior Technical Leadership** at **HedgeX Capital**
+- Driving AI integration and GenAI adoption strategies
+- Technology strategy and digital transformation leadership
+- Cloud architecture and SaaS development
 
-“Decebal excels at architecting software solutions with state-of-the-art technology and frameworks. I have benefitted greatly from working with him on projects, and have learnt a lot from his extensive technical knowledge.” Daniel
+---
 
-Areas of expertise:
+## 💡 Core Expertise
 
-➡️ Cloud Architecture
+```typescript
+const expertise = {
+  leadership: ["Fractional CTO", "Technology Strategy", "Team Building"],
+  aiEngineering: ["GenAI Integration", "LLM Applications", "AI Tooling"],
+  cloud: ["AWS Architecture", "Serverless", "Infrastructure Optimization"],
+  blockchain: ["Smart Contracts", "DeFi", "Web3 Solutions"],
+  development: ["TypeScript", "Rust", "Golang", "NodeJS", "ReactJS"],
+  architecture: ["Event Sourcing", "Microservices", "Monorepo Strategies"]
+}
+```
 
-➡️ B2B tech and SaaS
+---
 
-➡️ Engineering Management
+## 🎯 Services
 
-➡️ Engineering Hiring & Recruitment
+- **🔧 Fractional CTO** - Strategic technical leadership for startups
+- **🤖 AI Engineering** - GenAI integration and AI strategy
+- **☁️ Cloud Architecture** - Scalable, cost-efficient infrastructure
+- **⛓️ Blockchain Development** - Smart contracts and Web3 solutions
+- **📚 Technical Writing** - Architecture insights and best practices
 
-➡️ Cloud cost optimisation
+---
 
-➡️ Cloud performance optimisation
+## 📊 Track Record
 
-➡️ Engineering Pipeline optimisation
+| Achievement | Impact |
+|------------|--------|
+| Developer Productivity | **+300%** through modern dev practices |
+| Infrastructure Costs | **-75%** through AWS optimization |
+| Team Size Managed | **25+ engineers** across multiple startups |
+| Years of Experience | **15+ years** in software engineering |
 
-➡️ Coaching Tech Leaders
+---
 
+## 📝 Recent Writing
 
-Quick Trivia:
-I have a unique talent for simplifying complex subjects using football metaphors, making intricate ideas more accessible and engaging.
+I write extensively about **AI engineering**, **event sourcing**, and **software architecture**. Check out my blog at [decebaldobrica.com/blog](https://decebaldobrica.com/blog) for:
 
-[![Codewars Badge](https://www.codewars.com/users/decebal2dac/badges/large)](https://www.codewars.com/users/decebal2dac)
+- AI engineering patterns and best practices
+- Event-driven architecture deep dives
+- Cloud optimization strategies
+- Blockchain development insights
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages:** TypeScript, Rust, Golang, Python, PHP
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, Serverless Framework, AWS Lambda
+**Databases:** PostgreSQL, MongoDB, Redis, SQLite
+**DevOps:** AWS, Docker, Kubernetes, CI/CD
+**Blockchain:** Solidity, Web3.js, Ethers.js, Solana
+
+---
+
+## 📬 Let's Connect
+
+**Website:** [decebaldobrica.com](https://decebaldobrica.com)
+**Email:** [decebal@dobrica.dev](mailto:decebal@dobrica.dev)
+**LinkedIn:** [linkedin.com/in/decebaldobrica](https://www.linkedin.com/in/decebaldobrica/)
+
+💼 **Looking for a Fractional CTO?** Visit my [services page](https://decebaldobrica.com/services) or [book a consultation](https://decebaldobrica.com/services/book).
+
+---
+
+<div align="center">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+</div>
+
+<div align="center">
+  <sub>⚡ Building scalable, production-ready software for VC-backed startups</sub>
+</div>
