@@ -62,6 +62,7 @@
   monorepo template (MIT, v0.7.1)
   - 📜 **[wolven-tech/mcp-log-server](https://github.com/wolven-tech/mcp-log-server)**: Elixir MCP log server
   for Rust agent workflows
+  - 🦀 **[curated-claude-skills](https://github.com/decebal/curated-claude-skills)**: twelve curated Claude Code skills in Rust — memory, proofs, and real binaries (MCP, agent-skills)
   - 📚 **All my crates:** [crates.io/users/decebal](https://crates.io/users/decebal)
 
   ---
